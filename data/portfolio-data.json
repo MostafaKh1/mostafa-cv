@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "title": "Mostafa Khaled Abd el Barr | React.js Developer",
+    "description": "Portfolio website showcasing React/Next.js projects and skills"
+  },
+  "personal": {
+    "name": "Mostafa Khaled",
+    "title": "React.js Developer",
+    "location": "Cairo, Egypt",
+    "avatar": "",
+    "email": "mostafakkh32@gmail.com",
+    "phone": "+20 111 685 1157",
+    "workingHours": "Flexible, GMT+2",
+    "availableForWork": true,
+    "badges": ["React.js", "Next.js", "TypeScript"],
+    "social": []
+  },
+  "about": {
+    "bio": "React.js developer focused on building scalable, performant web apps with Next.js, TypeScript, and modern tooling. Experience delivering multi-tenant LMS platforms and SaaS products, integrating Stripe, and optimizing UI/UX with Tailwind CSS and Shadcn UI.",
+    "focus": [
+      "Building scalable multi-tenant platforms with Next.js & Supabase",
+      "Creating reusable UI systems with Tailwind CSS & Shadcn UI",
+      "Integrating payments and subscriptions with Stripe"
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "proficiency": "Native",
+        "level": 100,
+        "flag": "🇪🇬"
+      },
+      {
+        "name": "English",
+        "proficiency": "Intermediate",
+        "level": 70,
+        "flag": "🇬🇧"
+      }
+    ],
+    "interests": ["Frontend Engineering", "SaaS", "LMS Platforms", "Open Source"]
+  },
+  "navigation": [
+    { "label": "Home", "href": "/" },
+    { "label": "Experience", "href": "#experience" },
+    { "label": "Credentials", "href": "#credentials" },
+    { "label": "Skills", "href": "#skills" },
+    { "label": "Projects", "href": "#projects" }
+  ],
+  "experience": [
+    {
+      "title": "Full Stack Developer (Next.js & Supabase)",
+      "company": "Entlaqa",
+      "period": "July 2024 - Present",
+      "description": "Contributing to large-scale software like Jadrat, Tamm, and Banque Misr. Built multi-tenant LMS platforms and features across various SaaS projects using React.js, Next.js, Supabase, Tailwind CSS, Shadcn UI, and Stripe.",
+      "achievements": [
+        "Designed and developed scalable multi-tenant LMS platforms",
+        "Integrated Stripe for payments and subscription management",
+        "Delivered reusable, maintainable components to improve team efficiency",
+        "Optimized backend workflows with Next.js Server Actions"
+      ],
+      "technologies": ["React.js", "Next.js", "TypeScript", "Supabase", "Tailwind CSS", "Shadcn UI", "Stripe"]
+    },
+    {
+      "title": "Frontend ReactJS Developer (Freelance)",
+      "company": "Innovatek",
+      "period": "Feb 2024 - Apr 2024",
+      "description": "Collaborated on SmartDonor-Admin, an intuitive Charity Admin Dashboard using modern React tooling.",
+      "achievements": [
+        "Implemented core dashboard views and reusable components",
+        "Applied data fetching and caching with TanStack Query",
+        "Shipped responsive UI with Tailwind CSS and Shadcn UI"
+      ],
+      "technologies": ["React", "TypeScript", "Tailwind CSS", "TanStack Query", "Shadcn UI"]
+    },
+    {
+      "title": "Internship Front End Developer - React & Next.js",
+      "company": "Cube Master",
+      "period": "Nov 2023 - Dec 2023",
+      "description": "Contributed to projects including Afrita, Al Omran, and New Oil with a focus on responsive UI and performance.",
+      "achievements": [
+        "Built responsive interfaces and optimized bundle size",
+        "Collaborated in a multi-repo environment to deliver features",
+        "Improved code quality with reusable UI patterns"
+      ],
+      "technologies": ["React", "Next.js", "Tailwind CSS"]
+    },
+    {
+      "title": "Internship Frontend Developer (React.js)",
+      "company": "MYM",
+      "period": "Sep 2023 - Oct 2023",
+      "description": "Worked with the backend team to build a React.js project for a Driver website enabling efficient exchange between senders and receivers.",
+      "achievements": [
+        "Delivered core pages and forms with React Hook Form",
+        "Improved UX with validation using Zod/Yup",
+        "Collaborated closely with backend to align API contracts"
+      ],
+      "technologies": ["React", "React Router", "React Hook Form", "Zod", "Yup"]
+    },
+    {
+      "title": "Freelance Frontend Developer",
+      "company": "Upwork",
+      "period": "Sept 2022 - Present",
+      "description": "Building pixel-perfect websites with Tailwind CSS and modern React tooling for various clients.",
+      "achievements": [
+        "Delivered user-friendly, accessible UIs",
+        "Translated designs to responsive components",
+        "Maintained strong client communication and on-time delivery"
+      ],
+      "technologies": ["React", "Next.js", "Tailwind CSS", "Git"]
+    }
+  ],
+  "credentials": {
+    "certifications": [
+      {
+        "name": "React Bootcamp",
+        "issuer": "Scrimba",
+        "date": "July 2022",
+        "logo": "/scrimba-logo.png"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.Sc. in Hotels and Tourism",
+        "institution": "The Egyptian Higher Institute",
+        "year": "June 2023",
+        "logo": "/placeholder-logo.png"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Bootstrap",
+      "Git",
+      "React.js",
+      "TypeScript",
+      "Redux",
+      "TailwindCSS",
+      "Next.js",
+      "React Router",
+      "Shadcn UI",
+      "Supabase",
+      "Firebase",
+      "React Hook Form",
+      "Zod",
+      "Yup",
+      "Node.js",
+      "Express.js",
+      "MongoDB"
+    ]
+  },
+  "technicalSkills": {
+    "design": [],
+    "development": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "React.js",
+      "Next.js",
+      "Redux",
+      "React Router",
+      "Tailwind CSS",
+      "Shadcn UI",
+      "Supabase",
+      "Firebase",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "React Hook Form",
+      "Zod",
+      "Yup",
+      "Git"
+    ],
+    "uxMethods": [],
+    "softSkills": ["Teamwork", "Client Communication", "Problem Solving"]
+  }
+}
