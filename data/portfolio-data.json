@@ -13,7 +13,13 @@
     "workingHours": "Flexible, GMT+2",
     "availableForWork": true,
     "badges": ["React.js", "Next.js", "TypeScript"],
-    "social": []
+    "social": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/MostafaKh1",
+        "icon": "github"
+      }
+    ]
   },
   "about": {
     "bio": "React.js developer focused on building scalable, performant web apps with Next.js, TypeScript, and modern tooling. Experience delivering multi-tenant LMS platforms and SaaS products, integrating Stripe, and optimizing UI/UX with Tailwind CSS and Shadcn UI.",
